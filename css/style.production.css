@@ -161,7 +161,8 @@ button:focus {
   display: flex;
   flex-direction: column;
   align-items: center; 
- 
+
+
 }
 
 .contact-information {
